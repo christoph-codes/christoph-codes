@@ -1,4 +1,4 @@
-### Christoph Codes 👨🏾‍💻
+# Christoph Codes 👨🏾‍💻
 
 ![ReactJS](https://img.shields.io/badge/ReactJs-%2090%25-%23E6FC35)
 ![NextJS](https://img.shields.io/badge/NextJs-%2080%25-%23E6FC35)
