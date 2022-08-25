@@ -20,10 +20,10 @@ If you have a cool idea you want to talk about so we can make it happen, HMU!
 ## 🔭 I’m currently working on...
 - **Wallet** - A Redis Hackathon project to store all your credit cards in a single interface.
 - **Vet My Idea** - An idea vetting worksheet to help build confidence for your ideas to produce an action plan
-- **ito** - (In This Order) - A kids priority task list managed by us parents
+- [**ito**](https://inthisorder.com) - (In This Order) - A kids priority task list managed by us parents
 - **Bulb** - The last community for chronic ideators
-- **The Kirk Concept** - A branding and web development agency helping companies look good online
-- **Kikstarterz** - (coming soon) - An athlete profile that is easily distributable to coaches and college scouts. 
+- [**The Kirk Concept**](https://thekirkconcept.com) - A branding and web development agency helping companies look good online
+- [**Kikstarterz**](https://kikstarterz.com) - (coming soon) - An athlete profile that is easily distributable to coaches and college scouts. 
 
 ## 📫 How to reach me:
 - [Dev Email](tkcwebdev@gmail.com) - Creating and everything Dev related
