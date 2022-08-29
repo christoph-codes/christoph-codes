@@ -38,5 +38,3 @@ If you have a cool idea you want to talk about so we can make it happen, HMU!
 - I played collegiate level football and decided not to pursue a professional football career because I'm obsessed with creating cool stuff.
 
 ✌🏾 Peace
-
-![54452490](https://user-images.githubusercontent.com/54452490/186631663-85e397f5-98b2-4338-8fec-697b8abb932e.png)
