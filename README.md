@@ -19,7 +19,7 @@ If you have a cool idea you want to talk about so we can make it happen, HMU!
 
 ## 🔭 I’m currently working on...
 - **Wallet** - A Redis Hackathon project to store all your credit cards in a single interface.
-- **Vet My Idea** - An idea vetting worksheet to help build confidence for your ideas to produce an action plan
+- [**Vet My Idea**](https://christophcodes.gumroad.com/l/vetmyideas/) - An idea vetting worksheet to help build confidence for your ideas to produce an action plan
 - [**ito**](https://inthisorder.com) - (In This Order) - A kids priority task list managed by us parents
 - **Bulb** - The last community for chronic ideators
 - [**The Kirk Concept**](https://thekirkconcept.com) - A branding and web development agency helping companies look good online
