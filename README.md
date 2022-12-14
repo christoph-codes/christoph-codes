@@ -15,7 +15,7 @@ I go by Christoph Codes everywhere online. Just look for the lime green backgrou
 
 Passionate Programmer. Dedicated Designer. Chronic Creator.
 
-If you have a cool idea you want to talk about so we can make it happen, HMU!
+If you have a cool idea you want to talk about, we can make it happen, HMU!
 
 ## 🔭 I’m currently working on...
 - **Wallet** - A Redis Hackathon project to store all your credit cards in a single interface.
