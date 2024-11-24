@@ -31,7 +31,7 @@ If you have a cool idea you want to talk about, we can make it happen, HMU!
 ## 📫 How to reach me:
 - [Dev Email](tkcwebdev@gmail.com) - Creating and everything Dev related
 - [Business Email](cjones@thekirkconcept.com) - Need branding or dev work
-- [Twitter](https://twitter.com/christoph-codes) - I don't tweet often. But when I do, I try to space out my next tweet for when you've forgotten about me (I will do better)
+- [Twitter](https://twitter.com/christoph_codes) - I don't tweet often. But when I do, I try to space out my next tweet for when you've forgotten about me (I will do better)
 - [Discord](https://discord.gg/hdYzybh4) - A bunch of cool devs just hang out and geek out over code
 - [Github](/github/followers/:user?label=Follow) - lol
 
