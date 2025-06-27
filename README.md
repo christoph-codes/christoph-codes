@@ -19,12 +19,13 @@ If you have a cool idea you want to talk about, we can make it happen, HMU!
 
 ## 🔭 I’m currently working on...
 - [**Slytwork**](https://slytwork.com) - An athlete profile that is easily distributable to coaches and college scouts.
+- [**Slytwork Directory**](https://directory.slytwork.com) - An athlete database that works for you and your organization, powered by Slytwork.
 - [**Booo**](https://booo.vercel.app/) - A profile page with a generated QR code to have fun during the dark holidays!
 - [**The Kirk Concept**](https://thekirkconcept.com) - A branding and web development agency helping companies look good online.
 - [**Equippd**](https://equippdlife.com) - A Christian lifestyle brand seeking to bring glory to God in all facets of life.
 - [**Wallet**](https://dev.to/christoph_codes/wallet-where-your-credit-lives-redis-hackathon-submission-august-2022-46h4) - A Redis Hackathon project to store all your credit cards in a single interface.
 - [**Vet My Idea**](https://christophcodes.gumroad.com/l/vetmyideas/) - An idea vetting worksheet to help build confidence for your ideas to produce an action plan
-- [**ito**](https://inthisorder.com) - (In This Order) - A kids priority task list managed by us parents
+- [**ito**](https://ito2-a697c.web.app) - (In This Order) - A kids priority task list managed by us parents
 
 
 
